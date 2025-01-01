@@ -1,0 +1,5 @@
+flask
+pandas
+scikit-surprise
+requests
+scikit-learn
